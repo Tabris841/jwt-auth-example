@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Awesome project developed with TypeORM.",
   "dependencies": {
-    "apollo-server-express": "^2.10.1",
+    "apollo-server-express": "^2.14.2",
     "bcryptjs": "^2.4.3",
     "cookie-parser": "^1.4.4",
     "cors": "^2.8.5",
